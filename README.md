@@ -1,5 +1,4 @@
 # NashWD-1.0
-Intro to Git &amp; Review HTML
 
 # Intro to the TERMINAL
 
