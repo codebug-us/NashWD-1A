@@ -13,7 +13,7 @@
 | `cd directory_name`                 | Changes to the given directory                     |
 | `cd ..`                             | Moves one level up from the current directory      |
 | `pwd`                               | Prints the directory you are currently in          |
-| `rf -rf directory_or_file_name`     | Deletes everything in the given directory or file  |
+| `rm -rf directory_or_file_name`     | Deletes everything in the given directory or file  |
 | `mv directory_or_file new_location` | Moves a directory or file to a new location        |
 | `cp directory_or_file new_location` | Copies a directory or file to another location     |
 | `subl .`                            | Opens the current directory in Sublime             |
